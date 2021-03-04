@@ -15,7 +15,10 @@ Drop Index.html into browser and click on pacman
 
 Roadmap
 -------------------------------------------------
-Hoping to come back to this project and add some additional features soon.
+Additional features to be done: 
+- multiple pacmen
+- buttons
+- updated animations
 
 
 Notes
