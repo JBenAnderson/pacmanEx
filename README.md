@@ -26,5 +26,7 @@ Notes
 pacman animation with edge detection game done with simple JavaScript and Html.
 Utilizing exercises in setInterval() and animation with an array of still images.
 
-
+License
+----------------------------------------
+This project is licensed under the terms of the MIT license.
 
