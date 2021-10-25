@@ -1,16 +1,16 @@
 # pacmanEx
 
-Exercise in animation and edge detection
+Exercise in animation and edge detection.
 
 
 
 Installation
 ------------------------------------------------
-No installation needed
+Clone repository into empty folder on your computer. 
 
 Usage
 ------------------------------------------------
-Drop Index.html into browser and click on pacman
+Open index.html to view pacman animations with edge detection
 
 
 Roadmap
